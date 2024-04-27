@@ -1,0 +1,5 @@
+ISBN       | Judul                          | Edisi Terbitan       | Tahun      | Sampul     | Pinjam          | Tersedia        | Total Buku | ID Author  | ID Penerbit
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1234567890 | Java Programming               | Edisi Pertama        | 2022       | HardCover  | 10              | 5               | 15         | 1          | 1         
+96543210   | Data Structures and Algorithms | Edisi Kedua          | 2020       | SoftCover  | 8               | 3               | 11         | 2          | 2         
+5453555    | Introduction to PHP            | Edisi Ketiga         | 2021       | SoftCover  | 12              | 7               | 19         | 3          | 3         

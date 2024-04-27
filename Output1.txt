@@ -1,0 +1,7 @@
+Nama Pelanggaran               Telat      Lecet      Basah      Hilang     Robek      Tidak Ada 
+Denda hilang/1 buku            0          0          0          100000     0          0         
+Denda telat                    5000       0          0          0          5000       0         
+Denda lecet                    0          10000      0          0          0          0         
+Harga basah                    0          0          100000     0          0          0         
+Harga robek                    0          0          0          0          0          0         
+Tidak ada pelanggaran          0          0          0          0          0          0         

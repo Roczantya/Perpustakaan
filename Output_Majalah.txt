@@ -1,0 +1,5 @@
+ISBN       | Judul                          | Edisi Terbitan       | Tahun      | Sampul     | Pinjam          | Tersedia        | Total Majalah | ID Author  | ID Penerbit s
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1234567890 | Technology Today               | Volume 1             | 2022       | HardCover  | 10              | 5               | 15            | 1          | 1         
+98765210   | Science News                   | Issue 3              | 2021       | SoftCover  | 8               | 3               | 11            | 2          | 2         
+5553495    | Travel Adventure               | Summer Edition       | 2022       | SoftCover  | 12              | 7               | 19            | 3          | 3         

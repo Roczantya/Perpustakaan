@@ -1,0 +1,4 @@
+ISSN       | Judul                          | Edisi Terbitan       | Tahun      | Sampul          | Pinjam          | Tersedia   | Total Jurnal | ID Author  | ID Penerbit
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+129856     | Journal of Science             | Volume 1             | 2022       | HardCover       | 5               | 3          | 8            | 1          | 1         
+987654     | Journal of Medicine            | Issue 3              | 2021       | SoftCover       | 4               | 5          | 10           | 2          | 1         
